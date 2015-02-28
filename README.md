@@ -1,4 +1,4 @@
-# elStaticServer
+# elStaticServer [![Build Status](https://travis-ci.org/sjeandeaux/elStaticServer.svg?branch=master)](https://travis-ci.org/sjeandeaux/elStaticServer)
 A small static server in Go
 
 ##Stack
